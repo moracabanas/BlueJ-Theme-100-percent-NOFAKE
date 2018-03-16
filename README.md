@@ -1,7 +1,7 @@
 # BlueJ Theme 100 percent NOFAKE
 
 
-![Bluej1](moracabanas.github.com/BlueJ-Theme-100-percent-NOFAKE/img/Blluej1.jpg)
+![Bluej1](moracabanas.github.com/BlueJ-Theme-100-percent-NOFAKE/tree/master/img)
 
 
 Easy to install - Forget annoying white background forever
