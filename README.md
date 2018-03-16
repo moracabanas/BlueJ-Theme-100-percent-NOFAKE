@@ -19,9 +19,8 @@ Installation instructions
 
 
 
-* Just clone or drop the /lib folder inside your BlueJ root folder mainly:
+* Simply clone or drop the /lib folder and overwrite it into your BlueJ root folder. It should be:
 
-''
-C:\Program Files (x86)\BlueJ'
-''
+`C:\Program Files (x86)\BlueJ`
 
+But it depends on the SO you use.
