@@ -7,7 +7,7 @@
 Easy to install - Forget annoying white background forever
 =================
 
-As you know, BlueJ theme is $%#&! so I made my own one.
+As you know, BlueJ theme is $%#&! so I made my own one. It is not perfect but, you know, it's jsut BlueJ.
 
 Reporting bugs
 --------------
