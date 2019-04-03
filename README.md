@@ -1,7 +1,7 @@
 # BlueJ Theme 100 percent NOFAKE
 
 
-![Bluej1](https://github.com/moracabanas/BlueJ-Theme-100-percent-NOFAKE/blob/master/img/BluePaleNight.PNG)
+![Bluej1](https://github.com/moracabanas/BlueJ-Theme-100-percent-NOFAKE/blob/master/img/BluePaleNight.JPG)
 
 
 Easy to install - Forget annoying white background forever
