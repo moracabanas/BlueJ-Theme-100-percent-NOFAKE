@@ -1,7 +1,7 @@
 /* Styles for suggestions (i.e. code completion) */
 
 .root {
-  suggestion-background: darkslategray;
+  suggestion-background: #3b3f52;
 }
 
 .suggestion-list {

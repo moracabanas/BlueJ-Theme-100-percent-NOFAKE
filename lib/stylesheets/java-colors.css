@@ -1,28 +1,28 @@
 .token-keyword1 {
-    -fx-fill: #F46D78; /* Green */
+    -fx-fill: #ce716c; 
 }
 .token-keyword2 {
-    -fx-fill: #6599FF;
+    -fx-fill: #c490e3;
 }
 .token-keyword3 {
-    -fx-fill: #D6B572;
+    -fx-fill: #f7c064;
 }
 
 .token-comment-normal {
-    -fx-fill: rgb(182, 139, 54);
+    -fx-fill: #676e95;
 }
 .token-comment-javadoc {
-    -fx-fill: #FFC857;
+    -fx-fill: #a5abc9;
 }
 .token-comment-standout {
     -fx-fill: #177E89;
 }
 
 .token-primitive {
-    -fx-fill: rgb(78, 187, 201);
+    -fx-fill: rgb(47, 154, 168);
 }
 .token-string-literal {
-    -fx-fill: #CE9169;
+    -fx-fill: #60b883;
 }
 .token-label {
     -fx-fill: #FF82A9;
@@ -32,24 +32,24 @@
 }
 /* Default text colour */
 .token-default {
-    -fx-fill: rgb(250, 250, 209);
+    -fx-fill: #e3b95f;
 }
 
 .scope-colors {
-    -bj-background-color: #1E1E1E;
+    -bj-background-color: #292d3e;
 
-    -bj-class-color: rgba(64, 47, 53, 0.5);
-    -bj-class-outer-color: rgb(151, 133, 140);
-    -bj-class-inner-color: rgb(151, 133, 140);
+    -bj-class-color: #292d3e;
+    -bj-class-outer-color: #ff40806e;
+    -bj-class-inner-color: #292d3e;
 
-    -bj-method-color: rgba(78, 201, 176, 0.05);
-    -bj-method-outer-color: rgba(78, 201, 176, 0.4);
+    -bj-method-color: #292d3e33;
+    -bj-method-outer-color: #676e95;
 
-    -bj-selection-color: rgba(255, 148, 0, 0.05);
-    -bj-selection-outer-color: rgba(255, 149, 0, 0.3);
+    -bj-selection-color: #292d3e;
+    -bj-selection-outer-color: #444759;
 
-    -bj-iteration-color: rgba(255, 148, 0, 0.05);
-    -bj-iteration-outer-color: rgba(255, 149, 0, 0.3);
+    -bj-iteration-color: #292d3e;
+    -bj-iteration-outer-color: #444759;
 
     -bj-breakpoint-overlay-color: #68A8AD;
     -bj-step-overlay-color: #737495;
@@ -61,7 +61,7 @@
 }
 
 .moe-editor-pane {
-    -fx-background-color: #1e1e1e; // outside of class body
+    -fx-background-color: #292d3e; // outside of class body
     -fx-highlight-fill: hsb(150, 60%, 40%); // highlight on mouse drag
 }
 
@@ -69,5 +69,5 @@
     -rtfx-background-color: hsb(211, 20%, 99%); // not sure what this does... ctrl+f highlighting is managed by -fx-highlight-fill
 }
 .moe-editor-pane .caret {
-   -fx-stroke: rgb(241,64,75);
+   -fx-stroke: #ddffa7;
 }
