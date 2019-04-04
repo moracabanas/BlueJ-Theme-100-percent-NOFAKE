@@ -42,7 +42,7 @@
     -bj-class-outer-color: #ff40806e;
     -bj-class-inner-color: #292d3e;
 
-    -bj-method-color: #292d3e33;
+    -bj-method-color: #292d3e;
     -bj-method-outer-color: #676e95;
 
     -bj-selection-color: #292d3e;
@@ -61,7 +61,7 @@
 }
 
 .moe-editor-pane {
-    -fx-background-color: #292d3e; // outside of class body
+    -fx-background-color: #1A1C2A; // outside of class body
     -fx-highlight-fill: hsb(150, 60%, 40%); // highlight on mouse drag
 }
 
